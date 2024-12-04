@@ -1,1 +1,3 @@
 # Robotic_arm_micro_project
+This project focuses on designing, developing, and implementing a 3-DOF articulated robotic arm. The CAD model of the robotic arm is created using SolidWorks and 3D printed to produce a functional prototype. The system is programmed to perform direct kinematics using an Arduino board, with precise control achieved through servo motors and wiring. This project demonstrates the integration of mechanical design, electronics, and programming, offering a hands-on approach to understanding robotic motion and control. The robotic arm is ideal for educational purposes, automation tasks, and as a foundation for further robotics research.
+
